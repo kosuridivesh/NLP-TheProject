@@ -1,2 +1,2 @@
 # NLP: The Project
- Text Summarization
+ Text Summarization implementation and project work flow.
