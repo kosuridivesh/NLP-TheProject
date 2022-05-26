@@ -1,0 +1,8 @@
+REFERENCE:
+https://monkeylearn.com/blog/natural-language-processing-techniques/
+https://www.geeksforgeeks.org/sklearn-feature-extraction-with-tf-idf/
+https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/
+https://towardsdatascience.com/learning-nlp-language-models-with-real-data-cdff04c51c25
+https://towardsdatascience.com/tf-term-frequency-idf-inverse-document-frequency-from-scratch-in-python-6c2b61b78558 (IMP)
+
+sent_tokenize: Diff sentences
